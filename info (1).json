@@ -44,4 +44,9 @@
    "devices": ["SM-M105M48392901E2A6BFDC"],
    "expiry": "28-12-2024 12:59 PM"
 },
+   "Indriver": {
+   "password": "$2y$12$wKHAW6rBWS8xyYqTQVxq2Ok9AWRV42lxqjfJvsHzUN4voKL0LD6im",
+   "devices": ["CPH221718EBE53819B3087B"],
+   "expiry": "27-12-2024 12:59 PM"
+},
 }
