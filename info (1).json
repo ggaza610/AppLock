@@ -29,4 +29,9 @@
    "devices": ["M2010J19CG9D99E237FE629C26"],
    "expiry": "22-01-2025 12:59 PM"
 },
+   "Uttara69": {
+   "password": "$2y$12$BZeNlfrXiixniOgy6VXZ.Opp96Zvrf2/8o/Q.1piYE2J1nC2pPLNW",
+   "devices": ["CPH2505A49D18DD0AE1E4A6"],
+   "expiry": "25-01-2025 12:59 PM"
+},
 }
