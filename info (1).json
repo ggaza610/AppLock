@@ -9,4 +9,9 @@
    "devices": ["ITELA666LNECBAB607D86247A1"],
    "expiry": "28-02-2025 12:59 PM"
 },
+   "Ngaps2020": {
+   "password": "$2y$12$Wyjq2/CRo3wG8LggKYfxBO3KtfjxX9vUF.LCwJt/dIDGzyb3/gq6u",
+   "devices": ["SM-A207FA4825EFFDF832470"],
+   "expiry": "18-01-2025 12:00 PM"
+},
 }
