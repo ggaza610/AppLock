@@ -39,4 +39,9 @@
    "devices": ["RMX210336C95E9497DC516B"],
    "expiry": "31-01-2025 12:59 PM"
 },
+   "kadut123": {
+   "password": "$2y$12$v5AV/UzRrcYEjCCDh8CfO.7lzyU09QdKKePAVQFBrCl/GVlS.t3q6",
+   "devices": ["SM-M105M48392901E2A6BFDC"],
+   "expiry": "28-12-2024 12:59 PM"
+},
 }
