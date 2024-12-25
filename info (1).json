@@ -48,6 +48,10 @@
    "password": "$2y$12$wKHAW6rBWS8xyYqTQVxq2Ok9AWRV42lxqjfJvsHzUN4voKL0LD6im",
    "devices": ["CPH221718EBE53819B3087B"],
    "expiry": "27-12-2024 12:59 PM"
-
+},
+   "BOGAEYMAN": {
+   "password": "$2y$12$1cIzhfxEy4kgkJu.g/SHQuJ/9r0l.O2BndRxAQuaL8fYBW/XVMgXS",
+   "devices": ["M2012K11AGC078CED91F52C2B4"],
+   "expiry": "23-01-2025 12:59 PM"
 },
 }
