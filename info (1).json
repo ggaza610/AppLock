@@ -54,4 +54,9 @@
    "devices": ["M2012K11AGC078CED91F52C2B4"],
    "expiry": "23-01-2025 12:59 PM"
 },
+   "Pejuang3": {
+   "password": "$2y$12$gKosB1jIf4ht/uM/mNHsP.bIpvRrGpgYqWSt4wVeICpmtWfao8iVe",
+   "devices": ["RMX1821DAB2CC1D5236115D"],
+   "expiry": "22-01-2025 12:00 PM"
+},
 }
