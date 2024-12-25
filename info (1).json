@@ -34,4 +34,9 @@
    "devices": ["CPH2505A49D18DD0AE1E4A6"],
    "expiry": "25-01-2025 12:59 PM"
 },
+   "Planet12": {
+   "password": "$2y$12$LHaxLYUK10Ioe.zGipuSzeZJl/xHVGIERb4wpUTTRWbhG.W4RRmAi",
+   "devices": ["RMX210336C95E9497DC516B"],
+   "expiry": "31-01-2025 12:59 PM"
+},
 }
