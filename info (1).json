@@ -89,4 +89,9 @@
    "devices": ["SM-A055F6FB67C37CB6DBEA5"],
    "expiry": "28-12-2024 12:00 PM"
 },
+   "octavelm": {
+   "password": "$2y$12$1DohLsQc3Ze3KsVcn4nkm.3NHSwNJBJvTkwLbRFcvFEPnCCKV5fpW",
+   "devices": ["V20278B5BC6275B7BA1A1"],
+   "expiry": "29-12-2024 12:00 PM"
+},
 }
