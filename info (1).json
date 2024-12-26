@@ -74,4 +74,9 @@
    "devices": ["INFINIXX6833BFD4ECAE22CA0AD8B"],
    "expiry": "28-12-2024 12:00 PM"
 },
+   "Fathur123": {
+   "password": "$2y$12$fnr.nHwxoa4ORk.hIUMLxeo0P0NvhvXhN4FsJPVVjFXGU.zPYOvj6",
+   "devices": ["23053RN02AA37D4C47FB242B8E"],
+   "expiry": "28-12-2024 12:59 PM"
+},
 }
