@@ -79,4 +79,9 @@
    "devices": ["23053RN02AA37D4C47FB242B8E"],
    "expiry": "28-12-2024 12:59 PM"
 },
+   "hanggalatha": {
+   "password": "$2y$12$qjr7ShBN6kTjbSAqSjP23e9iKK5ovl4Cz3Xz3XvDUqVMJPYf.Wj0e",
+   "devices": ["CPH24713405CB3293CA8AA5"],
+   "expiry": "28-12-2024 12:59 PM"
+},
 }
