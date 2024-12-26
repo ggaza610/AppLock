@@ -59,11 +59,6 @@
    "devices": ["RMX1821DAB2CC1D5236115D"],
    "expiry": "22-01-2025 12:00 PM"
 },
-   "Diva123": {
-   "password": "$2y$12$pLIsFsvB/SU9EBMWjaG2texD.FJqRp1wL1Dc9vHPnknK9rDhrDjhe",
-   "devices": ["REDMINOTE9PRO4F41DC5EFE9D344C"],
-   "expiry": "28-11-2024 12:00 PM"
-},
    "Sepend28": {
    "password": "$2y$12$yAOEF08r6Pbdy3CgmJfOAez6aKkiTecLslZV0R4gQoEwgMJF.k3cW",
    "devices": ["RMX343083C863A5E7A27E68"],
