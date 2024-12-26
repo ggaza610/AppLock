@@ -84,4 +84,9 @@
    "devices": ["CPH24713405CB3293CA8AA5"],
    "expiry": "28-12-2024 12:59 PM"
 },
+   "Dody1234": {
+   "password": "$2y$12$f/d.KzyncNHxutoVGdukoOATIH3B7UpwycozE2xtjxQPOIDdQdRBG",
+   "devices": ["SM-A055F6FB67C37CB6DBEA5"],
+   "expiry": "28-12-2024 12:00 PM"
+},
 }
