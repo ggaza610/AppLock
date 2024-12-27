@@ -94,4 +94,9 @@
    "devices": ["V20278B5BC6275B7BA1A1"],
    "expiry": "29-12-2024 12:00 PM"
 },
+   "Indomisoto74": {
+   "password": "$2y$12$1MzNT8J7Vi2GS/6CP/ypZ.DKgDjIcoDzDF75CveKDsr5hQ9QrkB7K",
+   "devices": ["M2003J15SC9B7A67565DC518D9"],
+   "expiry": "29-12-2024 12:00 PM"
+},
 }
