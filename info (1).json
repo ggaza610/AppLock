@@ -99,4 +99,9 @@
    "devices": ["M2003J15SC9B7A67565DC518D9"],
    "expiry": "29-12-2024 12:00 PM"
 },
+   "Wanabdullah04": {
+   "password": "$2y$12$V1ieggbGGGic2NXxNr38x.dpxPXegK3VkS/uh92oPbjxQPNiRJHoW",
+   "devices": ["M2003J15SC0FC434FE4E7B96F8"],
+   "expiry": "29-12-2024 12:00 PM"
+},
 }
