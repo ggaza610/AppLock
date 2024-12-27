@@ -99,4 +99,9 @@
    "devices": ["M2003J15SCE9310B106483E917"],
    "expiry": "28-12-2024 12:59 PM"
 },
+   "Jerry123": {
+   "password": "$2y$12$an5187Oer9TkCx5GsV4IruVkw7f/wK2OZ6NzFf5OnozziYsGA/eS2",
+   "devices": ["REDMINOTE8PRO552781C1CE9992F8"],
+   "expiry": "28-12-2024 12:59 PM"
+},
 }
