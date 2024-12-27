@@ -104,4 +104,9 @@
    "devices": ["M2003J15SC0FC434FE4E7B96F8"],
    "expiry": "29-12-2024 12:00 PM"
 },
+   "Malaka378": {
+   "password": "$2y$12$6dPHXR.hkcTo8nWjDTJc.OSUVlokRlcegNcdn5dwRC0DgIUzHecV.",
+   "devices": ["M2010J19CGC6E6A13399793B78"],
+   "expiry": "25-01-2025 12:00 PM"
+},
 }
