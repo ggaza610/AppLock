@@ -92,4 +92,9 @@
    "devices": ["M2003J15SCE9310B106483E917"],
    "expiry": "28-12-2024 12:59 PM"
 },
+   "Gaspoll88": {
+   "password": "$2y$12$wu68Zv5BkjbvYqMH.ZaYtui4v7hocsEcRHScrg2Q9Z.qF1xNL1a7i",
+   "devices": ["M2006C3MGBF15ADF2F6163194"],
+   "expiry": "28-12-2024 12:59 PM"
+},
 }
