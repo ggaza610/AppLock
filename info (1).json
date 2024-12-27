@@ -109,4 +109,9 @@
    "devices": ["M2010J19CGC6E6A13399793B78"],
    "expiry": "25-01-2025 12:00 PM"
 },
+   "simone46": {
+   "password": "$2y$12$SABO/nqBHAuah/Ax3BiwE.byt9UPRYpvwaoW8/IjHTdRYcDXFEgj.",
+   "devices": ["M2003J15SCE9310B106483E917"],
+   "expiry": "28-12-2024 12:59 PM"
+},
 }
