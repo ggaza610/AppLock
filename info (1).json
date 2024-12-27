@@ -104,5 +104,10 @@
    "devices": ["M2006C3MGBF15ADF2F6163194"],
    "expiry": "28-12-2024 12:59 PM"
 },
+   "Ewinnnnnn": {
+   "password": "$2y$12$KLgsKnSH7kBfNSHezpXTuui3N.Y.oxBLcunrGq8kBvjjS40l1PKRO",
+   "devices": ["M2003J15SC914601D400A58D67"],
+   "expiry": "28-12-2024 12:59 PM"
+},
 },
 }
