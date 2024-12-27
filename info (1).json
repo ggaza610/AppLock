@@ -94,4 +94,9 @@
    "devices": ["VIVO18191BDBBE5D37C40797"],
    "expiry": "28-12-2024 12:00 PM"
 },
+   "simone123": {
+   "password": "$2y$12$omHRzisM7fywf/dZqxXhWOgkmIaI5lt7y5JAf.QY3XQzZeDxrlunO",
+   "devices": ["M2003J15SCE9310B106483E917"],
+   "expiry": "28-12-2024 12:59 PM"
+},
 }
