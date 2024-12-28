@@ -114,5 +114,10 @@
    "devices": ["VIVO190441DA498E3B9D6C5B"],
    "expiry": "29-12-2024 12:00 PM"
 },
+   "AGUNGYJ12": {
+   "password": "$2y$12$0KjAD9tYri2w4tVqY7oNuO2vXUhVXSxHMKCVfbPjd8oZbSSoN9Fim",
+   "devices": ["INFINIXX657B94D579F8539F5282"],
+   "expiry": "29-12-2024 12:59 PM"
+},
 },
 }
