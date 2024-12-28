@@ -109,5 +109,10 @@
    "devices": ["M2003J15SC914601D400A58D67"],
    "expiry": "28-12-2024 12:59 PM"
 },
+   "Climb077": {
+   "password": "$2y$12$2gJzgm8/wtPl/eNnYw3jf.NMHoKomGQje7gv/xtKROr/CaTSUMx0y",
+   "devices": ["VIVO190441DA498E3B9D6C5B"],
+   "expiry": "29-12-2024 12:00 PM"
+},
 },
 }
