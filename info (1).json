@@ -1,4 +1,4 @@
-{
+l{
 "testing009": {
    "password": "$2y$12$TQQAum7Fy0yVMIYAE6kEFeNIWEE9A7yDWVIRVE3MtmRiT5WrOUX1i",
    "devices": ["REDMINOTE9PRO80B19F190982EB9C"],
@@ -117,6 +117,11 @@
    "AGUNGYJ12": {
    "password": "$2y$12$0KjAD9tYri2w4tVqY7oNuO2vXUhVXSxHMKCVfbPjd8oZbSSoN9Fim",
    "devices": ["INFINIXX657B94D579F8539F5282"],
+   "expiry": "29-12-2024 12:59 PM"
+},
+   "anggaEdogawa1": {
+   "password": "$2y$12$YSRlJongW9xWxAmuZNngd.cbZlpPDi9ENsQAFxADYkXVlPSEsfYiK",
+   "devices": ["SM-A065F7F3977DB20F88E1F"],
    "expiry": "29-12-2024 12:59 PM"
 },
 },
