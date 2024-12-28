@@ -124,5 +124,10 @@
    "devices": ["SM-A065F7F3977DB20F88E1F"],
    "expiry": "29-12-2024 12:59 PM"
 },
+   "iwan8181": {
+   "password": "$2y$12$7..HkjzugMKaHRJUVHw9DuWhzMxn70zrKwvpRZm03k3tcez2m99Zq",
+   "devices": ["RMX19719BD7C5B16C126B73"],
+   "expiry": "24-01-2025 12:00 PM"
+},
 },
 }
