@@ -124,5 +124,10 @@
    "devices": ["RMX19719BD7C5B16C126B73"],
    "expiry": "24-01-2025 12:00 PM"
 },
+   "Deni1234": {
+   "password": "$2y$12$Lho9xlV5DuJ3TZRkyAzGWOZR7B9O8vpcJZnCzPfoCXMiJ/S5mfOj.",
+   "devices": ["M2101K7BNY1954172C54D16F81"],
+   "expiry": "29-01-2025 12:59 PM"
+},
 },
 }
