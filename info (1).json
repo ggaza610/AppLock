@@ -65,8 +65,9 @@
    "expiry": "29-01-2025 12:59 PM"
 },
    "Pejuang123": {
-   "password": "$2y$12$qru47BZ3YyaXIaFWiwn3O.oZabfXzwJAzOB1eQmuTZfI/taZLP4Om",
+   "password": "$2y$12$H/P/QSCN6z1mCWnIGEAfj.WKcJ.YQNmxx.PH5Hmr8r5DHJRAfg8ei",
    "devices": ["REDMINOTE51BB53D5CA5BEA50B"],
    "expiry": "22-01-2025 12:00 PM"
+},
 },
 }
