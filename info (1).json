@@ -69,5 +69,10 @@
    "devices": ["REDMINOTE51BB53D5CA5BEA50B"],
    "expiry": "22-01-2025 12:00 PM"
 },
+   "HeriPurwanto": {
+   "password": "$2y$12$umoGArtQhIXOj7Vyvf4rteuDDzCLHrLLl8R9.px6yzKTaI4ASBOYC",
+   "devices": ["SM-J730GA9EAA711B9BDD7F1"],
+   "expiry": "01-02-2025 12:59 PM"
+},
 },
 }
