@@ -73,6 +73,10 @@
    "password": "$2y$12$umoGArtQhIXOj7Vyvf4rteuDDzCLHrLLl8R9.px6yzKTaI4ASBOYC",
    "devices": ["SM-J730GA9EAA711B9BDD7F1"],
    "expiry": "01-02-2025 12:59 PM"
-},
+      
+},"OomRojer": {
+   "password": "$2y$12$APvNhfGCdzYYkIq4Xb3BGO5jclCF53OeJhoTK3r6RMO0X.xawUebu",
+   "devices": ["SM-A507FNF37C2B00889737D6"],
+   "expiry": "28-02-2025 12:00 PM"
 },
 }
