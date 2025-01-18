@@ -89,10 +89,9 @@
    "devices": ["12345688"],
    "expiry": "31-01-2025 12:00 PM"
 },
-}"AdminAxeCar": {
-   "password": "$2y$12$XViIZvS45MPUReZtONtXOegBNAqo.PM0.Hx9/HRuOceMFWxtrxcQO",
+   "AdminAxeCar": {
+   "password": "$2y$12$0EvueFEC/we80r9/EZ.oI.i0Sv.qoQ9aEynOYuezI460N4rWWtMBe",
    "devices": ["FLEUR167DA0D60DFC3A34"],
    "expiry": "01-01-2026 12:00 PM"
-},
 },
 
