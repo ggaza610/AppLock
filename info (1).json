@@ -79,4 +79,9 @@
    "devices": ["SM-A507FNF37C2B00889737D6"],
    "expiry": "28-02-2025 12:00 PM"
 },
+   "virziian31": {
+   "password": "$2y$12$KQPMxuEo32NJuA3HQWZs3Ow8Xrx01U8ZlwVLbgzuLWj44/09R.gD.",
+   "devices": ["SM-A057FC65EBEE9B4301F9C"],
+   "expiry": "31-01-2025 12:00 PM"
+},
 }
