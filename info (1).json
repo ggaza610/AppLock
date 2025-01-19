@@ -1,43 +1,8 @@
 {
-"testing009": {
-   "password": "$2y$12$TQQAum7Fy0yVMIYAE6kEFeNIWEE9A7yDWVIRVE3MtmRiT5WrOUX1i",
-   "devices": ["REDMINOTE9PRO80B19F190982EB9C"],
-   "expiry": "30-11-2025 12:00 PM"
-},
    "Gzofficial": {
    "password": "$2y$12$CQMWTOweERIPgat15vMiu.BTOwFJHyp3JMmM40l8.gf29iBcqyp1C",
    "devices": ["ITELA666LNECBAB607D86247A1"],
    "expiry": "28-02-2025 12:00 PM"
-},
-   "Ngaps2020": {
-   "password": "$2y$12$Wyjq2/CRo3wG8LggKYfxBO3KtfjxX9vUF.LCwJt/dIDGzyb3/gq6u",
-   "devices": ["SM-A207FA4825EFFDF832470"],
-   "expiry": "18-01-2025 12:00 PM"
-},
-   "Rama7899": {
-   "password": "$2y$12$mbYwpc89/sBzPEvGEXoVJOvNL6eiuUsbtTuZURh/5c366mUmootV.",
-   "devices": ["M2007J20CG6B1B46502150542F"],
-   "expiry": "09-01-2025 12:00 PM"
-},
-   "Bishamon": {
-   "password": "$2y$12$vP1/e3FcOD3Zdr1IP5HaBO4cO8ODxw6Vvrza/CPEjt.92v15Iq4UK",
-   "devices": ["M2010J19CG9D99E237FE629C26"],
-   "expiry": "22-01-2025 12:59 PM"
-},
-   "Uttara69": {
-   "password": "$2y$12$BZeNlfrXiixniOgy6VXZ.Opp96Zvrf2/8o/Q.1piYE2J1nC2pPLNW",
-   "devices": ["CPH2505A49D18DD0AE1E4A6"],
-   "expiry": "25-01-2025 12:59 PM"
-},
-   "Planet12": {
-   "password": "$2y$12$LHaxLYUK10Ioe.zGipuSzeZJl/xHVGIERb4wpUTTRWbhG.W4RRmAi",
-   "devices": ["RMX210336C95E9497DC516B"],
-   "expiry": "31-01-2025 12:59 PM"
-},
-   "BOGAEYMAN": {
-   "password": "$2y$12$1cIzhfxEy4kgkJu.g/SHQuJ/9r0l.O2BndRxAQuaL8fYBW/XVMgXS",
-   "devices": ["M2012K11AGC078CED91F52C2B4"],
-   "expiry": "23-01-2025 12:59 PM"
 },
    "Pejuang3": {
    "password": "$2y$12$gKosB1jIf4ht/uM/mNHsP.bIpvRrGpgYqWSt4wVeICpmtWfao8iVe",
@@ -93,7 +58,6 @@
    "password": "$2y$12$SGaWkLBxadqvbdWnrbtlrOh0ol9T7rzQlq6ldtrDKmzX3BZaeW.xG",
    "devices": ["FLEUR167DA0D60DFC3A34"],
    "expiry": "31-01-2025 12:00 PM"
-
   }
    "Deni1234": {
    "password": "$2y$12$D2lg5ps3nGNx97xjbeOLA.YgNha8sDqXbf1Uhnd4vRBhLA.uVt/UC",
