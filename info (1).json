@@ -74,9 +74,5 @@
    "devices": ["REDMI5PLUS3576533C5B5ECE1B"],
    "expiry": "01-02-2025 12:00 PM"
 },
-   "Risky1234": {
-   "password": "$2y$12$c32kvXfreU85hTCRwXHwB.Dcjrq60mEfV4GSWkf5/7hVJYTwzJmgC",
-   "devices": ["RMX3501CF0C5C082663A427"],
-   "expiry": "28-02-2025 12:00 PM"
-},
+   
 },
